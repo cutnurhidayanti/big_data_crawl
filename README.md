@@ -2,9 +2,10 @@
 
 # Technologies
 The project is created with:
-*  Install python 3.8
-*  chrome  119.0.6045.106 
-*  chromedriver 119.0.6045.105
+*  Jupyter Notebook
+*  python 3.8
+*  Chrome  119.0.6045.106 
+*  Chromedriver 119.0.6045.105
 
 
 # Setup
