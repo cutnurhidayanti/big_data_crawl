@@ -11,7 +11,7 @@ The project is created with:
 ## Clone Repository
 ``` bash
 # clone your repository
-$ git clone https://github.com/zulfahmidev/capstone_mobile.git
+$ https://github.com/cutnurhidayanti/big_data_crawl.git
 ```
 
 ## Install Virtualenv
