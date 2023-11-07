@@ -26,7 +26,7 @@ $ pip install virtualenv
 $ python3.8 -m venv env-3.8
 
 # active virtualenv
-$ source enn-3.8\bin\activate
+$ source env-3.8\bin\activate
 ```
 
 ## Install Requirements
@@ -36,6 +36,6 @@ $ pip install -r requirements.txt
 ```
 
 ## Select kernel using env-3.8
-## run scrapping.ipynb
+## Run scrapping.ipynb
 
 
