@@ -8,19 +8,19 @@ The project is created with:
 
 
 # Setup
-> Clone Repository
+## Clone Repository
 ``` bash
 # clone your repository
 $ git clone https://github.com/zulfahmidev/capstone_mobile.git
 ```
 
-> Install Virtualenv
+## Install Virtualenv
 ``` bash
 # Install Virtualenv
 $ pip install virtualenv
 ```
 
-> Create env
+## Create env
 ``` bash
 # create env
 $ python3.8 -m venv env-3.8
@@ -29,13 +29,13 @@ $ python3.8 -m venv env-3.8
 $ source enn-3.8\bin\activate
 ```
 
-> Install Requirements
+## Install Requirements
 ``` bash
 # Install Requirements
 $ pip install -r requirements.txt
 ```
 
-> Select kernel using env-3.8
-> run scrapping.ipynb
+## Select kernel using env-3.8
+## run scrapping.ipynb
 
 
